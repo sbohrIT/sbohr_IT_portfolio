@@ -2,6 +2,7 @@
 A simple face detection project using OpenCV's Haar Cascade algorithm.
 
 ***Overview***
+
 This project uses a pre-trained model to detect faces in real-time video capture from the default webcam. It converts each frame to grayscale, detects faces, and draws rectangles around them with a label.
 
 ***Requirements***
