@@ -29,12 +29,6 @@ System Requirements
  - Python: Version 3.x
  - Internet Connection: Required for downloading printer drivers
 
-Installation
-==============================================
- - Clone the Repository: Use git clone to download the project files.
- - Install Python: Ensure Python 3.x is installed on your system.
- - Run the Script: Execute the script using a Python interpreter.
-
 Troubleshooting
 ==============================================
  - Security Prompts: If macOS blocks the application, follow the provided instructions to allow the app to run.
