@@ -1,4 +1,4 @@
-USB Encryption Check & Force Encryption - Mac OS X
+Force USB Encryption - Mac OS X
 ===========================================================
 This AppleScript project is designed to detect and force encryption on external USB drives connected to a Mac. 
 The script checks for the presence of a USB drive, determines if it is encrypted, and prompts the user to create a password if it is not.
