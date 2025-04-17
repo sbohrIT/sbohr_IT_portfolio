@@ -27,7 +27,7 @@ while True:
     #Draw rectangles around the faces
     for(x, y, w, h) in face_coordinates:
         cv2.rectangle(grayscaled_frame, (x,y), (x+w, y+h), (255,0,255), 2) #Top Left point, Bottom Right point, Color, line thickness
-        cv2.putText(grayscaled_frame, 'UGLY', (x, y+h+40), fontScale = 3, fontFace = cv2.FONT_HERSHEY_PLAIN, color=(255, 255, 255))
+        cv2.putText(grayscaled_frame, 'FACE DETECTED', (x, y+h+40), fontScale = 3, fontFace = cv2.FONT_HERSHEY_PLAIN, color=(255, 255, 255))
 
 
     cv2.imshow('A.I. Face Detector', grayscaled_frame)
