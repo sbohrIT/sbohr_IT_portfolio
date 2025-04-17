@@ -1,0 +1,27 @@
+USB Encryption Check & Force Encryption - Mac OS X
+===========================================================
+This AppleScript project is designed to detect and force encryption on external USB drives connected to a Mac. The script checks for the presence of a USB drive, determines if it is encrypted, and prompts the user to create a password if it is not.
+Features
+Detects external USB drives connected to the Mac
+Checks if the USB drive is encrypted
+Prompts the user to create a password if the drive is not encrypted
+Encrypts the USB drive using the provided password
+Renames the USB drive to match the current username
+Requirements
+Mac OS X 10.9 or later
+AppleScript Editor (built-in)
+Terminal app (built-in)
+Installation
+Save the script as an AppleScript file (.scpt) in the ~/Library/Scripts directory.
+Create a new folder action by going to System Preferences > Automator > Folder Actions.
+Select the script from the list of available scripts and click "Add".
+Configure the folder action to run when a USB drive is inserted.
+Usage
+Insert a USB drive into your Mac.
+The script will automatically detect the drive and prompt you to create a password if it is not encrypted.
+Enter a password and click "Continue" to encrypt the drive.
+The script will rename the drive to match your current username.
+Troubleshooting
+If the script does not detect the USB drive, ensure that the drive is properly connected and configured.
+If the script fails to encrypt the drive, check the Terminal output for errors and try again.
+If you encounter any issues with the script, feel free to open an issue on this repository.
