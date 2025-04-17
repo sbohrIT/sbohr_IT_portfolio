@@ -10,13 +10,14 @@ Context
 This project was initiated in response to a critical security concern within our organization. 
 The widespread use of unmanaged and unencrypted USB drives by employees posed a significant risk to sensitive company information.
 
-Problem Statement:
+***Problem Statement:***
 Unencrypted USB drives were being used to store sensitive data, leaving it vulnerable to unauthorized access.
 Lack of ownership identification made it difficult to return lost assets, further exacerbating the security risks.
 
-Project Objective:
+***Project Objective:***
 The primary goal of this project is to develop a solution that forces encryption on any USB drive inserted into enterprise MacBook devices, while also facilitating the return of lost assets.
-By achieving this objective, we aim to:
+
+***By achieving this objective, I aimed to:***
  - Protect sensitive company information from unauthorized access.
  - Ensure compliance with organizational security policies.
  - Streamline the process of returning lost assets, reducing downtime and associated costs.
