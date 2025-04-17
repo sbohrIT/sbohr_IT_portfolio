@@ -5,6 +5,7 @@ This is a collection of self-initiated projects developed during my 5+ year tenu
 These projects are not deployed in production at Meta and do not contain any sensitive or confidential information.
 
 ***Overview***
+
 This portfolio showcases my ability to:
  - Problem Identification: Recognize organizational challenges or procedures that could benefit from improvement.
  - Technical Innovation: Leverage my technical skills to craft innovative solutions through coding.
