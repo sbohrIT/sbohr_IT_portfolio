@@ -1,8 +1,8 @@
-Meta Printer Automator - Menlo Park Offices
+# Meta Printer Automator - Menlo Park Offices
 
 Created by Scott Bohr
 
-Note: All URLs related to Meta/Facebook have been deprecated and are no longer valid
+*Note: All URLs related to Meta/Facebook have been deprecated and are no longer valid*
 
 Overview
 ==============================================
