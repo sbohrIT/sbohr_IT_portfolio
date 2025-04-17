@@ -13,7 +13,6 @@ This portfolio showcases my ability to:
  - Python
  - AppleScript
 
- - 
 Each project in this portfolio reflects my commitment to enhancing operational efficiency and my passion for developing creative technological solutions.
 
 
