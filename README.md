@@ -1,18 +1,19 @@
-# meta_IT_portfolio
-Portfolio of self started projects I've created while working at Meta (formerly facebook).
+# Meta IT Portfolio
+Welcome to my Meta IT Portfolio, a collection of self-initiated projects developed during my tenure at Meta (formerly Facebook). These projects were conceived to automate processes and address challenges faced by Enterprise Engineering and the Helpdesk from November 2019 to May 2023.
 
-***These projects are not implemented in production at Meta and contain no sensitive or confidential information.***
+***Disclaimer:***
+These projects are not deployed in production at Meta and do not contain any sensitive or confidential information.
 
-These where self started attempts to automate procedures or solve problems facing Enterprise Engineering/Helpdesk from 11/2019 - 5/2023.
+***Overview***
+This portfolio showcases my ability to:
+ - Problem Identification: Recognize organizational challenges or procedures that could benefit from improvement.
+ - Technical Innovation: Leverage my technical skills to craft innovative solutions through coding.
+   
+***Technologies Used***
+ - Python
+ - AppleScript
 
-Though these did not land, these projects highlight my ability to:
-1. Identify a problem an organization is facing or a procedure that could be improved upon.
-2. Use my technical skillset to develop creative solutions to these problems using code.
-
-
-Languages:
-- ***Python***
-- ***AppleScript***
-
+ - 
+Each project in this portfolio reflects my commitment to enhancing operational efficiency and my passion for developing creative technological solutions.
 
 
