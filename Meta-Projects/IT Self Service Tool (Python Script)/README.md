@@ -3,7 +3,8 @@
 Created by Scott Bohr - Enterprise Support Tech
 
 File: technical_support_assistant.py
-======================================================
+
+***Overview:***
 This program is designed to provide a comprehensive guide for IT technical support. 
 It offers a range of options to help users troubleshoot and resolve common issues.
 
