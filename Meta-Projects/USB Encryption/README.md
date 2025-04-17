@@ -1,7 +1,7 @@
 Force USB Encryption - Mac OS X
 ===========================================================
 This AppleScript project is designed to detect and force encryption on external USB drives connected to a Mac. 
-The script checks for the presence of a USB drive, determines if it is encrypted, and prompts the user to create a password if it is not.
+The script checks for the presence of a USB drive, determines if it is encrypted with FileVault, and prompts the user to create a password if it is not.
 
 File: force_USB_encrypt.scpt
 
@@ -15,7 +15,7 @@ Unencrypted USB drives were being used to store sensitive data, leaving it vulne
 Lack of ownership identification made it difficult to return lost assets, further exacerbating the security risks.
 
 ***Project Objective:***
-The primary goal of this project is to develop a solution that forces encryption on any USB drive inserted into enterprise MacBook devices, while also facilitating the return of lost assets.
+The primary goal of this project is to develop a solution that forces FileVault encryption on any USB drive inserted into enterprise MacBook devices, while also facilitating the return of lost assets.
 
 ***By achieving this objective, I aimed to:***
  - Protect sensitive company information from unauthorized access.
@@ -26,9 +26,9 @@ The primary goal of this project is to develop a solution that forces encryption
 Features
 ===========================================================
 - Detects external USB drives connected to the Mac
-- Checks if the USB drive is encrypted
+- Checks if the USB drive is encrypted with FileVault
 - Prompts the user to create a password if the drive is not encrypted
-- Encrypts the USB drive using the provided password
+- Encrypts the USB drive with FileVault using the provided password
 - Renames the USB drive to match the current username in order to identity owner
 
 Requirements
