@@ -1,4 +1,4 @@
-#Meta Printer Automator - Global Offices
+#Meta Printer Automator - Menlo Park Offices
 #Created by Scott Bohr
 
 import os
