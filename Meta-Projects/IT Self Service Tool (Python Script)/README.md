@@ -19,22 +19,22 @@ Usage:
  - Run the program and select an option from the menu.
  - Follow the prompts to complete the selected task.
 
-Options:
- - Create a ticket
- - Device upgrade/asset dispute
- - Buy@ (Internal Hardware Procurement)
- - Contact remote support
- - Reset AD password
- - Renew certificates
- - Two Factor Authentication Enrollment
- - Mobile phones
- - E-mail & calendar
- - Request a DevServer
- - Request a utility or admin account
- - Request software
- - Add a printer
- - Personal account (Oops)
- - Intern search
+*Options:*
+- Create a ticket
+- Device upgrade/asset dispute
+- Buy@ (Internal Hardware Procurement)
+- Contact remote support
+- Reset AD password
+- Renew certificates
+- Two Factor Authentication Enrollment
+- Mobile phones
+- E-mail & calendar
+- Request a DevServer
+- Request a utility or admin account
+- Request software
+- Add a printer
+- Personal account (Oops)
+- Intern search
 
 System Requirements:
 ======================================================
