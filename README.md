@@ -1,5 +1,5 @@
 # Meta IT Project Portfolio
-This is a collection of self-initiated projects developed during my 5+ year tenure at Meta (formerly Facebook). These projects were conceived to automate processes and address challenges faced by Enterprise Engineering and the Helpdesk from November 2019 to April 2025.
+This is a collection of professional and personal projects developed during my 5+ year tenure at Meta (formerly Facebook). These projects were conceived to automate processes and address challenges faced by Enterprise Engineering and the Helpdesk from November 2019 to April 2025.
 
 ***Disclaimer:***
 These projects are not deployed in production at Meta and do not contain any sensitive or confidential information.
