@@ -5,18 +5,18 @@ Created by Scott Bohr - Enterprise Support Tech
 File: technical_support_assistant.py
 
 ***Overview:***
-This program is designed to provide a comprehensive guide for IT technical support. 
-It offers a range of options to help users troubleshoot and resolve common issues.
+This program was designed to provide a comprehensive guide for IT Technical Support at Meta. 
+It offers a range of options to help users troubleshoot and resolve common issues and requests.
 
 Features:
 ======================================================
  - Operating System detection
- - Options for creating a ticket, device upgrade/asset dispute, Buy@, contacting remote support, and more
+ - Options for creating a ticket, device upgrade/asset dispute, Buy@, contacting remote support, and more (see full options list)
  - Links to internal resources and tools
 
 Usage:
 ======================================================
- - Run the program and select an option from the menu.
+ - Run the program and select an option from the menu, by entering the cooresponding character associated with your desired option.
  - Follow the prompts to complete the selected task.
 
 *Options:*
