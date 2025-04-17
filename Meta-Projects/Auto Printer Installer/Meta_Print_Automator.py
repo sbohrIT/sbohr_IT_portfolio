@@ -1,5 +1,5 @@
 #Meta Printer Automator - Global Offices
-#Created by Scott Bohr, Leonys Guimarães, Gordon Staines.
+#Created by Scott Bohr
 
 import os
 from os import path
