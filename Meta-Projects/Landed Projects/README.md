@@ -1,5 +1,5 @@
 # Loaner Stock Alert Automation
-=====================================
+
 Overview
 ==================
 The Loaner Stock Alert Automation project is designed to address the issue of stockout situations with loaner devices at Meta Helpdesks. This system proactively sends alerts to the proper point of contact whenever the stock of any loaner device at any site falls below the desired threshold, allowing our team to request more loaner devices from supply chain before a complete stockout event occurs.
