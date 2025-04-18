@@ -9,7 +9,7 @@ These projects do not contain any sensitive or confidential information.
  - Identity Problems: Recognize organizational challenges or procedures that could benefit from new ideas.
  - Innovate: Leverage my technical skills to craft innovative solutions.
    
-***Technologies Used***
+***Technologies Used (not exhaustive)***
  - Python
  - AppleScript
  - Bash (Shell Scripting)
