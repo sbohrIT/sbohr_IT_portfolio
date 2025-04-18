@@ -13,10 +13,10 @@ Lack of accountability of the loaner re-fill request process, as Enterprise Supp
 Solution
 ==================
 Our solution consists of the following components:
-- *SQL Queries*: Individual SQL queries retrieve the count of how many loaner devices are stocked at each office's helpdesk IT closet from the hourly supply chain hive table.
+- *SQL Queries*: Individual SQL queries retrieve the count of how many loaner devices are stocked at each office's helpdesk from the hourly supply chain hive table.
 - *Metric Catalog*: The query is then converted into a metric through an internal metric catalog used to create, manage, and share metrics across the company.
 - *Detector:* A detector is created from that metric which monitors time series data and triggers alerts when predefined conditions are met. Detectors are part of the monitoring infrastructure, enabling teams to detect anomalies, track metric violations, and ensure system reliability.
-- *Alert System*:
+- *Oncall System*:
 The detector fires an alert whenever any loaner device count falls below our desired threshold.
 This alert automatically sends the desired message to the associated members in the oncall group, allowing proactive actions to be taken to prevent stockouts.
 
