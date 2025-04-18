@@ -20,6 +20,8 @@ Our solution consists of the following components:
 The detector fires an alert whenever any loaner device count falls below our desired threshold.
 This alert automatically sends the desired message to the associated members in the oncall group, allowing proactive actions to be taken to prevent stockouts.
 
+
+
 Outcomes
 ==================
 This solution was launched for all helpdesks in Meta's Menlo Park Headquarters Campus along with New York City offices, providing real-time visibility into loaner stock levels and enabling proactive management of loaner device inventory.
