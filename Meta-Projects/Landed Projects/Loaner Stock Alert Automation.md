@@ -20,7 +20,7 @@ Our solution consists of the following components:
 The detector fires an alert whenever any loaner device count falls below our desired threshold.
 This alert automatically sends the desired message to the associated members in the oncall group, allowing proactive actions to be taken to prevent stockouts.
 
-
+![Image description](https://github.com/sbohrIT/sbohr_IT_portfolio/blob/main/Meta-Projects/Landed%20Projects/Loaner_Stock_Automation_Flow.png)
 
 Outcomes
 ==================
