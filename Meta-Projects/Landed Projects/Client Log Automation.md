@@ -16,6 +16,7 @@ Deployed to 30,000+ MacBooks worldwide through Chef, this script demonstrates la
 
 - **Root Access Verification**: Self-elevates privileges when required
 - **User Notification**: Desktop alerts using Facebook's Notifier Functionality
+  ![Image description](![Image description](./images/image_name.png)
 - **Log Collection**:
   - System diagnostics bundle
   - Chef client run logs
