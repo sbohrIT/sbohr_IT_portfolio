@@ -6,12 +6,14 @@ These projects do not contain any sensitive or confidential information.
 
 
 ***This portfolio showcases my ability to:***
- - Problem Identification: Recognize organizational challenges or procedures that could benefit from improvement.
- - Technical Innovation: Leverage my technical skills to craft innovative solutions through coding.
+ - Identity Problems: Recognize organizational challenges or procedures that could benefit from new ideas.
+ - Innovate: Leverage my technical skills to craft innovative solutions.
    
 ***Technologies Used***
  - Python
  - AppleScript
+ - Bash (Shell Scripting)
+   
 
 Each project in this portfolio reflects my commitment to enhancing operational efficiency and my passion for developing creative technological solutions.
 
